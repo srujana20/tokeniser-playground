@@ -40,7 +40,7 @@ This should read `corpus.txt` and write a tokenizer file (for example `my_tokeni
 Encode text with the tokenizer
 
 ```bash
-python encode_demo.py "This is a test sentence."
+python encode_demo.py
 ```
 
 Inspect the tokenizer

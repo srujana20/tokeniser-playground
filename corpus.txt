@@ -1,0 +1,8 @@
+the cat sat on the mat
+the cat sat on the chair
+the dog ran in the park
+tokenization is the process of converting text into tokens
+large language models predict the next token
+the cat and the dog played together in the park
+byte pair encoding merges frequent character pairs
+this tokenizer is being trained from scratch right now
